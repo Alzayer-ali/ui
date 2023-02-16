@@ -13,8 +13,8 @@
 }
 
 img{
-    height: 6vh;
-    margin: 6vh 8vh;
+    height: 4vh;
+    margin: 5vh 5vh;
     border-radius: 50px;
 }
 
@@ -24,7 +24,7 @@ img{
 }
 
 p{
-    margin-left: 8vh;
+    margin-left: 5vh;
     margin-top: 4vh;
     font-size: 5vh;
     letter-spacing: 2px;
@@ -42,12 +42,13 @@ p{
 }
 
 h3{
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(255, 255, 255, 0.619);
     font-weight: 100;
     text-align: justify;
+    letter-spacing: 1.5px;
 }
 
 #p{
     font-size: medium;
-    line-height: 20px;
+    line-height: 25px;
 }
